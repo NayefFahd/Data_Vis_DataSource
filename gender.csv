@@ -1,0 +1,525 @@
+,Country,Code,Year,Continent,Gender,Percentage,Longitude,Latitude
+0,Afghanistan,AFG,2019,,Males,40.09999847,65,33
+1,Afghanistan,AFG,2019,,Females,7.5,65,33
+2,Africa,,2019,,Males,,0,0
+3,Africa,,2019,,Females,,0,0
+4,Albania,ALB,2019,,Males,39.79999924,20,41
+5,Albania,ALB,2019,,Females,6.199999809,20,41
+6,Algeria,DZA,2019,,Males,41.29999924,3,28
+7,Algeria,DZA,2019,,Females,0.699999988,3,28
+8,American Samoa,ASM,2019,,Males,,-170,-14.3333
+9,American Samoa,ASM,2019,,Females,,-170,-14.3333
+10,Andorra,AND,2019,,Males,35.59999847,1.6,42.5
+11,Andorra,AND,2019,,Females,28.29999924,1.6,42.5
+12,Angola,AGO,2019,,Males,,18.5,-12.5
+13,Angola,AGO,2019,,Females,,18.5,-12.5
+14,Anguilla,AIA,2019,,Males,,-63.1667,18.25
+15,Anguilla,AIA,2019,,Females,,-63.1667,18.25
+16,Antigua and Barbuda,ATG,2019,,Males,,-61.8,17.05
+17,Antigua and Barbuda,ATG,2019,,Females,,-61.8,17.05
+18,Argentina,ARG,2019,,Males,29.79999924,-64,-34
+19,Argentina,ARG,2019,,Females,19.89999962,-64,-34
+20,Armenia,ARM,2019,,Males,50,45,40
+21,Armenia,ARM,2019,,Females,1.5,45,40
+22,Aruba,ABW,2019,,Males,,-69.9667,12.5
+23,Aruba,ABW,2019,,Females,,-69.9667,12.5
+24,Asia,,2019,,Males,,0,0
+25,Asia,,2019,,Females,,0,0
+26,Australia,AUS,2019,,Males,16,133,-27
+27,Australia,AUS,2019,,Females,11.89999962,133,-27
+28,Austria,AUT,2019,,Males,28.60000038,13.3333,47.3333
+29,Austria,AUT,2019,,Females,25.60000038,13.3333,47.3333
+30,Azerbaijan,AZE,2019,,Males,48.20000076,47.5,40.5
+31,Azerbaijan,AZE,2019,,Females,0.100000001,47.5,40.5
+32,Bahamas,BHS,2019,,Males,18.79999924,-76,24.25
+33,Bahamas,BHS,2019,,Females,2.5,-76,24.25
+34,Bahrain,BHR,2019,,Males,25.70000076,50.55,26
+35,Bahrain,BHR,2019,,Females,4.599999905,50.55,26
+36,Bangladesh,BGD,2019,,Males,52.5,90,24
+37,Bangladesh,BGD,2019,,Females,17.89999962,90,24
+38,Barbados,BRB,2019,,Males,15,-59.5333,13.1667
+39,Barbados,BRB,2019,,Females,1.899999976,-59.5333,13.1667
+40,Belarus,BLR,2019,,Males,48.20000076,28,53
+41,Belarus,BLR,2019,,Females,13.60000038,28,53
+42,Belgium,BEL,2019,,Males,26.29999924,4,50.8333
+43,Belgium,BEL,2019,,Females,21.39999962,4,50.8333
+44,Belize,BLZ,2019,,Males,15.60000038,-88.75,17.25
+45,Belize,BLZ,2019,,Females,1.899999976,-88.75,17.25
+46,Benin,BEN,2019,,Males,12.30000019,2.25,9.5
+47,Benin,BEN,2019,,Females,2,2.25,9.5
+48,Bermuda,BMU,2019,,Males,,-64.75,32.3333
+49,Bermuda,BMU,2019,,Females,,-64.75,32.3333
+50,Bhutan,BTN,2019,,Males,,90.5,27.5
+51,Bhutan,BTN,2019,,Females,,90.5,27.5
+52,Bolivia,BOL,2019,,Males,21.10000038,-65,-17
+53,Bolivia,BOL,2019,,Females,5.300000191,-65,-17
+54,Bonaire Sint Eustatius and Saba,BES,2019,,Males,,0,0
+55,Bonaire Sint Eustatius and Saba,BES,2019,,Females,,0,0
+56,Bosnia and Herzegovina,BIH,2019,,Males,42.59999847,18,44
+57,Bosnia and Herzegovina,BIH,2019,,Females,28.29999924,18,44
+58,Botswana,BWA,2019,,Males,30.70000076,24,-22
+59,Botswana,BWA,2019,,Females,8.899999619,24,-22
+60,Brazil,BRA,2019,,Males,16.70000076,-55,-10
+61,Brazil,BRA,2019,,Females,9.699999809,-55,-10
+62,British Virgin Islands,VGB,2019,,Males,,-64.5,18.5
+63,British Virgin Islands,VGB,2019,,Females,,-64.5,18.5
+64,Brunei,BRN,2019,,Males,30,114.6667,4.5
+65,Brunei,BRN,2019,,Females,2.400000095,114.6667,4.5
+66,Bulgaria,BGR,2019,,Males,41.70000076,25,43
+67,Bulgaria,BGR,2019,,Females,37.09999847,25,43
+68,Burkina Faso,BFA,2019,,Males,22.79999924,-2,13
+69,Burkina Faso,BFA,2019,,Females,6.900000095,-2,13
+70,Burundi,BDI,2019,,Males,18,30,-3.5
+71,Burundi,BDI,2019,,Females,6.400000095,30,-3.5
+72,Cambodia,KHM,2019,,Males,37.40000153,105,13
+73,Cambodia,KHM,2019,,Females,6.300000191,105,13
+74,Cameroon,CMR,2019,,Males,13.5,12,6
+75,Cameroon,CMR,2019,,Females,1.5,12,6
+76,Canada,CAN,2019,,Males,15.80000019,-95,60
+77,Canada,CAN,2019,,Females,11.30000019,-95,60
+78,Cape Verde,CPV,2019,,Males,17.70000076,-24,16
+79,Cape Verde,CPV,2019,,Females,5.599999905,-24,16
+80,Cayman Islands,CYM,2019,,Males,,-80.5,19.5
+81,Cayman Islands,CYM,2019,,Females,,-80.5,19.5
+82,Central African Republic,CAF,2019,,Males,,21,7
+83,Central African Republic,CAF,2019,,Females,,21,7
+84,Chad,TCD,2019,,Males,14.19999981,19,15
+85,Chad,TCD,2019,,Females,2.799999952,19,15
+86,Chile,CHL,2019,,Males,32.29999924,-71,-30
+87,Chile,CHL,2019,,Females,27.5,-71,-30
+88,China,CHN,2019,,Males,49.70000076,105,35
+89,China,CHN,2019,,Females,1.700000048,105,35
+90,Colombia,COL,2019,,Males,12.80000019,-72,4
+91,Colombia,COL,2019,,Females,4.699999809,-72,4
+92,Comoros,COM,2019,,Males,29.89999962,44.25,-12.1667
+93,Comoros,COM,2019,,Females,11.69999981,44.25,-12.1667
+94,Congo,COG,2019,,Males,26.39999962,15,-1
+95,Congo,COG,2019,,Females,2.200000048,15,-1
+96,Cook Islands,COK,2019,,Males,,-159.7667,-21.2333
+97,Cook Islands,COK,2019,,Females,,-159.7667,-21.2333
+98,Costa Rica,CRI,2019,,Males,13.39999962,-84,10
+99,Costa Rica,CRI,2019,,Females,4.800000191,-84,10
+100,Cote d'Ivoire,CIV,2019,,Males,18.5,-5,8
+101,Cote d'Ivoire,CIV,2019,,Females,0.899999976,-5,8
+102,Croatia,HRV,2019,,Males,37.79999924,15.5,45.1667
+103,Croatia,HRV,2019,,Females,35.59999847,15.5,45.1667
+104,Cuba,CUB,2019,,Males,26.39999962,-80,21.5
+105,Cuba,CUB,2019,,Females,10.89999962,-80,21.5
+106,Curacao,CUW,2019,,Males,,0,0
+107,Curacao,CUW,2019,,Females,,0,0
+108,Cyprus,CYP,2019,,Males,47.70000076,33,35
+109,Cyprus,CYP,2019,,Females,23.20000076,33,35
+110,Czechia,CZE,2019,,Males,35.20000076,15.5,49.75
+111,Czechia,CZE,2019,,Females,26.5,15.5,49.75
+112,Democratic Republic of Congo,COD,2019,,Males,22.89999962,25,0
+113,Democratic Republic of Congo,COD,2019,,Females,3.099999905,25,0
+114,Denmark,DNK,2019,,Males,18.39999962,10,56
+115,Denmark,DNK,2019,,Females,17.79999924,10,56
+116,Djibouti,DJI,2019,,Males,,43,11.5
+117,Djibouti,DJI,2019,,Females,,43,11.5
+118,Dominica,DMA,2019,,Males,,-61.3333,15.4167
+119,Dominica,DMA,2019,,Females,,-61.3333,15.4167
+120,Dominican Republic,DOM,2019,,Males,15,-70.6667,19
+121,Dominican Republic,DOM,2019,,Females,6.800000191,-70.6667,19
+122,East Asia and Pacific,,2019,,Males,49.48209763,0,0
+123,East Asia and Pacific,,2019,,Females,3.522330284,0,0
+124,Ecuador,ECU,2019,,Males,18.89999962,-77.5,-2
+125,Ecuador,ECU,2019,,Females,4.300000191,-77.5,-2
+126,Egypt,EGY,2019,,Males,48.29999924,30,27
+127,Egypt,EGY,2019,,Females,0.400000006,30,27
+128,El Salvador,SLV,2019,,Males,14.69999981,-88.9167,13.8333
+129,El Salvador,SLV,2019,,Females,1.799999952,-88.9167,13.8333
+130,Equatorial Guinea,GNQ,2019,,Males,,10,2
+131,Equatorial Guinea,GNQ,2019,,Females,,10,2
+132,Eritrea,ERI,2019,,Males,15.10000038,39,15
+133,Eritrea,ERI,2019,,Females,0.200000003,39,15
+134,Estonia,EST,2019,,Males,37.40000153,26,59
+135,Estonia,EST,2019,,Females,23.5,26,59
+136,Eswatini,SWZ,2019,,Males,16.70000076,31.5,-26.5
+137,Eswatini,SWZ,2019,,Females,1.899999976,31.5,-26.5
+138,Ethiopia,ETH,2019,,Males,9,38,8
+139,Ethiopia,ETH,2019,,Females,1.399999976,38,8
+140,Europe,,2019,,Males,,0,0
+141,Europe,,2019,,Females,,0,0
+142,Europe and Central Asia,,2019,,Males,33.35464096,0,0
+143,Europe and Central Asia,,2019,,Females,18.42672157,0,0
+144,European Union,,2019,,Males,29.80517387,0,0
+145,European Union,,2019,,Females,23.76903343,0,0
+146,European Union (27),,2019,,Males,,0,0
+147,European Union (27),,2019,,Females,,0,0
+148,Faeroe Islands,FRO,2019,,Males,,-7,62
+149,Faeroe Islands,FRO,2019,,Females,,-7,62
+150,Falkland Islands,FLK,2019,,Males,,-59,-51.75
+151,Falkland Islands,FLK,2019,,Females,,-59,-51.75
+152,Fiji,FJI,2019,,Males,36.20000076,175,-18
+153,Fiji,FJI,2019,,Females,10.60000038,175,-18
+154,Finland,FIN,2019,,Males,27.70000076,26,64
+155,Finland,FIN,2019,,Females,16.60000038,26,64
+156,France,FRA,2019,,Males,35.20000076,2,46
+157,France,FRA,2019,,Females,31.89999962,2,46
+158,French Guiana,GUF,2019,,Males,,-53,4
+159,French Guiana,GUF,2019,,Females,,-53,4
+160,French Polynesia,PYF,2019,,Males,,-140,-15
+161,French Polynesia,PYF,2019,,Females,,-140,-15
+162,Gabon,GAB,2019,,Males,,11.75,-1
+163,Gabon,GAB,2019,,Females,,11.75,-1
+164,Gambia,GMB,2019,,Males,22.20000076,-16.5667,13.4667
+165,Gambia,GMB,2019,,Females,0.899999976,-16.5667,13.4667
+166,Georgia,GEO,2019,,Males,56.29999924,43.5,42
+167,Georgia,GEO,2019,,Females,7,43.5,42
+168,Germany,DEU,2019,,Males,24.60000038,9,51
+169,Germany,DEU,2019,,Females,20.39999962,9,51
+170,Ghana,GHA,2019,,Males,6.800000191,-2,8
+171,Ghana,GHA,2019,,Females,0.400000006,-2,8
+172,Gibraltar,GIB,2019,,Males,,-5.3667,36.1833
+173,Gibraltar,GIB,2019,,Females,,-5.3667,36.1833
+174,Greece,GRC,2019,,Males,37.70000076,22,39
+175,Greece,GRC,2019,,Females,31.20000076,22,39
+176,Greenland,GRL,2019,,Males,,-40,72
+177,Greenland,GRL,2019,,Females,,-40,72
+178,Grenada,GRD,2019,,Males,,-61.6667,12.1167
+179,Grenada,GRD,2019,,Females,,-61.6667,12.1167
+180,Guadeloupe,GLP,2019,,Males,,-61.5833,16.25
+181,Guadeloupe,GLP,2019,,Females,,-61.5833,16.25
+182,Guam,GUM,2019,,Males,,144.7833,13.4667
+183,Guam,GUM,2019,,Females,,144.7833,13.4667
+184,Guatemala,GTM,2019,,Males,20.39999962,-90.25,15.5
+185,Guatemala,GTM,2019,,Females,1.600000024,-90.25,15.5
+186,Guernsey,GGY,2019,,Males,,-2.56,49.5
+187,Guernsey,GGY,2019,,Females,,-2.56,49.5
+188,Guinea,GIN,2019,,Males,,-10,11
+189,Guinea,GIN,2019,,Females,,-10,11
+190,Guinea-Bissau,GNB,2019,,Males,17.60000038,-15,12
+191,Guinea-Bissau,GNB,2019,,Females,0.899999976,-15,12
+192,Guyana,GUY,2019,,Males,22.70000076,-59,5
+193,Guyana,GUY,2019,,Females,2.5,-59,5
+194,Haiti,HTI,2019,,Males,12.5,-72.4167,19
+195,Haiti,HTI,2019,,Females,3.200000048,-72.4167,19
+196,High income,,2019,,Males,28.05708122,0,0
+197,High income,,2019,,Females,17.67631531,0,0
+198,High-income countries,,2019,,Males,,0,0
+199,High-income countries,,2019,,Females,,0,0
+200,Honduras,HND,2019,,Males,,-86.5,15
+201,Honduras,HND,2019,,Females,,-86.5,15
+202,Hong Kong,HKG,2019,,Males,,114.1667,22.25
+203,Hong Kong,HKG,2019,,Females,,114.1667,22.25
+204,Hungary,HUN,2019,,Males,36.40000153,20,47
+205,Hungary,HUN,2019,,Females,28,20,47
+206,Iceland,ISL,2019,,Males,12.60000038,-18,65
+207,Iceland,ISL,2019,,Females,12.5,-18,65
+208,India,IND,2019,,Males,42.40000153,77,20
+209,India,IND,2019,,Females,13.69999981,77,20
+210,Indonesia,IDN,2019,,Males,70.59999847,120,-5
+211,Indonesia,IDN,2019,,Females,3.799999952,120,-5
+212,Iran,IRN,2019,,Males,24.70000076,53,32
+213,Iran,IRN,2019,,Females,3.299999952,53,32
+214,Iraq,IRQ,2019,,Males,35.5,44,33
+215,Iraq,IRQ,2019,,Females,2,44,33
+216,Ireland,IRL,2019,,Males,23.10000038,-8,53
+217,Ireland,IRL,2019,,Females,19.70000076,-8,53
+218,Isle of Man,IMN,2019,,Males,,-4.55,54.23
+219,Isle of Man,IMN,2019,,Females,,-4.55,54.23
+220,Israel,ISR,2019,,Males,29.29999924,34.75,31.5
+221,Israel,ISR,2019,,Females,13.89999962,34.75,31.5
+222,Italy,ITA,2019,,Males,26.89999962,12.8333,42.8333
+223,Italy,ITA,2019,,Females,19.60000038,12.8333,42.8333
+224,Jamaica,JAM,2019,,Males,15.5,-77.5,18.25
+225,Jamaica,JAM,2019,,Females,3.900000095,-77.5,18.25
+226,Japan,JPN,2019,,Males,30.79999924,138,36
+227,Japan,JPN,2019,,Females,10.19999981,138,36
+228,Jersey,JEY,2019,,Males,,-2.13,49.21
+229,Jersey,JEY,2019,,Females,,-2.13,49.21
+230,Jordan,JOR,2019,,Males,56.5,36,31
+231,Jordan,JOR,2019,,Females,12.69999981,36,31
+232,Kazakhstan,KAZ,2019,,Males,40.09999847,68,48
+233,Kazakhstan,KAZ,2019,,Females,6.900000095,68,48
+234,Kenya,KEN,2019,,Males,20.10000038,38,1
+235,Kenya,KEN,2019,,Females,2.900000095,38,1
+236,Kiribati,KIR,2019,,Males,55.20000076,173,1.4167
+237,Kiribati,KIR,2019,,Females,28.20000076,173,1.4167
+238,Kosovo,OWID_KOS,2019,,Males,,0,0
+239,Kosovo,OWID_KOS,2019,,Females,,0,0
+240,Kuwait,KWT,2019,,Males,33.5,47.6581,29.3375
+241,Kuwait,KWT,2019,,Females,2.299999952,47.6581,29.3375
+242,Kyrgyzstan,KGZ,2019,,Males,51.79999924,75,41
+243,Kyrgyzstan,KGZ,2019,,Females,3.299999952,75,41
+244,Laos,LAO,2019,,Males,54.09999847,105,18
+245,Laos,LAO,2019,,Females,10.89999962,105,18
+246,Latin America and Caribbean,,2019,,Males,18.79660988,0,0
+247,Latin America and Caribbean,,2019,,Females,8.821369171,0,0
+248,Latvia,LVA,2019,,Males,50.59999847,25,57
+249,Latvia,LVA,2019,,Females,23.79999924,25,57
+250,Lebanon,LBN,2019,,Males,47.59999847,35.8333,33.8333
+251,Lebanon,LBN,2019,,Females,29.20000076,35.8333,33.8333
+252,Lesotho,LSO,2019,,Males,43.09999847,28.5,-29.5
+253,Lesotho,LSO,2019,,Females,5.699999809,28.5,-29.5
+254,Liberia,LBR,2019,,Males,14.69999981,-9.5,6.5
+255,Liberia,LBR,2019,,Females,2.099999905,-9.5,6.5
+256,Libya,LBY,2019,,Males,,17,25
+257,Libya,LBY,2019,,Females,,17,25
+258,Liechtenstein,LIE,2019,,Males,,9.5333,47.1667
+259,Liechtenstein,LIE,2019,,Females,,9.5333,47.1667
+260,Lithuania,LTU,2019,,Males,42.79999924,24,56
+261,Lithuania,LTU,2019,,Females,21.79999924,24,56
+262,Low and middle income,,2019,,Males,40.03739548,0,0
+263,Low and middle income,,2019,,Females,7.089961529,0,0
+264,Low income,,2019,,Males,21.51913071,0,0
+265,Low income,,2019,,Females,4.062176704,0,0
+266,Lower middle income,,2019,,Males,41.22346878,0,0
+267,Lower middle income,,2019,,Females,9.24534893,0,0
+268,Lower-middle-income countries,,2019,,Males,,0,0
+269,Lower-middle-income countries,,2019,,Females,,0,0
+270,Low-income countries,,2019,,Males,,0,0
+271,Low-income countries,,2019,,Females,,0,0
+272,Luxembourg,LUX,2019,,Males,23,6.1667,49.75
+273,Luxembourg,LUX,2019,,Females,20.10000038,6.1667,49.75
+274,Macao,MAC,2019,,Males,,113.55,22.1667
+275,Macao,MAC,2019,,Females,,113.55,22.1667
+276,Madagascar,MDG,2019,,Males,43.29999924,47,-20
+277,Madagascar,MDG,2019,,Females,13.5,47,-20
+278,Malawi,MWI,2019,,Males,18.20000076,34,-13.5
+279,Malawi,MWI,2019,,Females,4.300000191,34,-13.5
+280,Malaysia,MYS,2019,,Males,44.29999924,112.5,2.5
+281,Malaysia,MYS,2019,,Females,1.200000048,112.5,2.5
+282,Maldives,MDV,2019,,Males,45.29999924,73,3.25
+283,Maldives,MDV,2019,,Females,6.400000095,73,3.25
+284,Mali,MLI,2019,,Males,16.10000038,-4,17
+285,Mali,MLI,2019,,Females,1.100000024,-4,17
+286,Malta,MLT,2019,,Males,27.10000038,14.5833,35.8333
+287,Malta,MLT,2019,,Females,21.79999924,14.5833,35.8333
+288,Marshall Islands,MHL,2019,,Males,48.5,168,9
+289,Marshall Islands,MHL,2019,,Females,8.300000191,168,9
+290,Martinique,MTQ,2019,,Males,,-61,14.6667
+291,Martinique,MTQ,2019,,Females,,-61,14.6667
+292,Mauritania,MRT,2019,,Males,19.89999962,-12,20
+293,Mauritania,MRT,2019,,Females,2.200000048,-12,20
+294,Mauritius,MUS,2019,,Males,37.90000153,57.55,-20.2833
+295,Mauritius,MUS,2019,,Females,3.099999905,57.55,-20.2833
+296,Mayotte,MYT,2019,,Males,,45.1667,-12.8333
+297,Mayotte,MYT,2019,,Females,,45.1667,-12.8333
+298,Mexico,MEX,2019,,Males,20.39999962,-102,23
+299,Mexico,MEX,2019,,Females,6.400000095,-102,23
+300,Micronesia (country),FSM,2019,,Males,,158.25,6.9167
+301,Micronesia (country),FSM,2019,,Females,,158.25,6.9167
+302,Middle East and North Africa,,2019,,Males,35.22078705,0,0
+303,Middle East and North Africa,,2019,,Females,3.12636137,0,0
+304,Middle income,,2019,,Males,41.37797928,0,0
+305,Middle income,,2019,,Females,7.316933155,0,0
+306,Moldova,MDA,2019,,Males,51.20000076,29,47
+307,Moldova,MDA,2019,,Females,6.199999809,29,47
+308,Monaco,MCO,2019,,Males,,7.4,43.7333
+309,Monaco,MCO,2019,,Females,,7.4,43.7333
+310,Mongolia,MNG,2019,,Males,52,105,46
+311,Mongolia,MNG,2019,,Females,7.199999809,105,46
+312,Montenegro,MNE,2019,,Males,32.29999924,19,42
+313,Montenegro,MNE,2019,,Females,31.29999924,19,42
+314,Montserrat,MSR,2019,,Males,,-62.2,16.75
+315,Montserrat,MSR,2019,,Females,,-62.2,16.75
+316,Morocco,MAR,2019,,Males,28.79999924,-5,32
+317,Morocco,MAR,2019,,Females,0.899999976,-5,32
+318,Mozambique,MOZ,2019,,Males,23.70000076,35,-18.25
+319,Mozambique,MOZ,2019,,Females,5.900000095,35,-18.25
+320,Myanmar,MMR,2019,,Males,69.40000153,98,22
+321,Myanmar,MMR,2019,,Females,20.79999924,98,22
+322,Namibia,NAM,2019,,Males,24.60000038,17,-22
+323,Namibia,NAM,2019,,Females,6.300000191,17,-22
+324,Nauru,NRU,2019,,Males,48.40000153,166.9167,-0.5333
+325,Nauru,NRU,2019,,Females,49.90000153,166.9167,-0.5333
+326,Nepal,NPL,2019,,Males,49.09999847,84,28
+327,Nepal,NPL,2019,,Females,13.80000019,84,28
+328,Netherlands,NLD,2019,,Males,24.79999924,5.75,52.5
+329,Netherlands,NLD,2019,,Females,20.29999924,5.75,52.5
+330,New Caledonia,NCL,2019,,Males,,165.5,-21.5
+331,New Caledonia,NCL,2019,,Females,,165.5,-21.5
+332,New Zealand,NZL,2019,,Males,15.5,174,-41
+333,New Zealand,NZL,2019,,Females,12.80000019,174,-41
+334,Nicaragua,NIC,2019,,Males,,-85,13
+335,Nicaragua,NIC,2019,,Females,,-85,13
+336,Niger,NER,2019,,Males,13.89999962,8,16
+337,Niger,NER,2019,,Females,1.200000048,8,16
+338,Nigeria,NGA,2019,,Males,7.199999809,8,10
+339,Nigeria,NGA,2019,,Females,0.5,8,10
+340,Niue,NIU,2019,,Males,,-169.8667,-19.0333
+341,Niue,NIU,2019,,Females,,-169.8667,-19.0333
+342,North America,,2019,,Males,27.50847244,0,0
+343,North America,,2019,,Females,17.11489868,0,0
+344,North Korea,PRK,2019,,Males,35.5,127,40
+345,North Korea,PRK,2019,,Females,0,127,40
+346,North Macedonia,MKD,2019,,Males,,22,41.8333
+347,North Macedonia,MKD,2019,,Females,,22,41.8333
+348,Northern Mariana Islands,MNP,2019,,Males,,145.75,15.2
+349,Northern Mariana Islands,MNP,2019,,Females,,145.75,15.2
+350,Norway,NOR,2019,,Males,17.89999962,10,62
+351,Norway,NOR,2019,,Females,16.20000076,10,62
+352,Oceania,,2019,,Males,,0,0
+353,Oceania,,2019,,Females,,0,0
+354,Oman,OMN,2019,,Males,15.39999962,57,21
+355,Oman,OMN,2019,,Females,0.400000006,57,21
+356,Pakistan,PAK,2019,,Males,33.90000153,70,30
+357,Pakistan,PAK,2019,,Females,7.699999809,70,30
+358,Palau,PLW,2019,,Males,27.60000038,134.5,7.5
+359,Palau,PLW,2019,,Females,8.100000381,134.5,7.5
+360,Palestine,PSE,2019,,Males,,35.25,32
+361,Palestine,PSE,2019,,Females,,35.25,32
+362,Panama,PAN,2019,,Males,8.199999809,-80,9
+363,Panama,PAN,2019,,Females,2.299999952,-80,9
+364,Papua New Guinea,PNG,2019,,Males,54.20000076,147,-6
+365,Papua New Guinea,PNG,2019,,Females,25.60000038,147,-6
+366,Paraguay,PRY,2019,,Males,19.5,-58,-23
+367,Paraguay,PRY,2019,,Females,4.699999809,-58,-23
+368,Peru,PER,2019,,Males,14.10000038,-76,-10
+369,Peru,PER,2019,,Females,3.200000048,-76,-10
+370,Philippines,PHL,2019,,Males,40,122,13
+371,Philippines,PHL,2019,,Females,6.699999809,122,13
+372,Poland,POL,2019,,Males,28.60000038,20,52
+373,Poland,POL,2019,,Females,20.70000076,20,52
+374,Portugal,PRT,2019,,Males,30.60000038,-8,39.5
+375,Portugal,PRT,2019,,Females,20,-8,39.5
+376,Puerto Rico,PRI,2019,,Males,,-66.5,18.25
+377,Puerto Rico,PRI,2019,,Females,,-66.5,18.25
+378,Qatar,QAT,2019,,Males,21.89999962,51.25,25.5
+379,Qatar,QAT,2019,,Females,2,51.25,25.5
+380,Reunion,REU,2019,,Males,,55.6,-21.1
+381,Reunion,REU,2019,,Females,,55.6,-21.1
+382,Romania,ROU,2019,,Males,36.5,25,46
+383,Romania,ROU,2019,,Females,20.20000076,25,46
+384,Russia,RUS,2019,,Males,41.5,100,60
+385,Russia,RUS,2019,,Females,12.69999981,100,60
+386,Rwanda,RWA,2019,,Males,20.79999924,30,-2
+387,Rwanda,RWA,2019,,Females,7.400000095,30,-2
+388,Saint Barthlemy,,2019,,Males,,0,0
+389,Saint Barthlemy,,2019,,Females,,0,0
+390,Saint Helena,SHN,2019,,Males,,-5.7,-15.9333
+391,Saint Helena,SHN,2019,,Females,,-5.7,-15.9333
+392,Saint Kitts and Nevis,KNA,2019,,Males,,-62.75,17.3333
+393,Saint Kitts and Nevis,KNA,2019,,Females,,-62.75,17.3333
+394,Saint Lucia,LCA,2019,,Males,,-61.1333,13.8833
+395,Saint Lucia,LCA,2019,,Females,,-61.1333,13.8833
+396,Saint Martin (French part),MAF,2019,,Males,,0,0
+397,Saint Martin (French part),MAF,2019,,Females,,0,0
+398,Saint Pierre and Miquelon,SPM,2019,,Males,,-56.3333,46.8333
+399,Saint Pierre and Miquelon,SPM,2019,,Females,,-56.3333,46.8333
+400,Saint Vincent and the Grenadines,VCT,2019,,Males,,-61.2,13.25
+401,Saint Vincent and the Grenadines,VCT,2019,,Females,,-61.2,13.25
+402,Samoa,WSM,2019,,Males,36.79999924,-172.3333,-13.5833
+403,Samoa,WSM,2019,,Females,14.89999962,-172.3333,-13.5833
+404,San Marino,SMR,2019,,Males,,12.4167,43.7667
+405,San Marino,SMR,2019,,Females,,12.4167,43.7667
+406,Sao Tome and Principe,STP,2019,,Males,10.10000038,7,1
+407,Sao Tome and Principe,STP,2019,,Females,1.399999976,7,1
+408,Saudi Arabia,SAU,2019,,Males,26.29999924,45,25
+409,Saudi Arabia,SAU,2019,,Females,2.099999905,45,25
+410,Senegal,SEN,2019,,Males,13.5,-14,14
+411,Senegal,SEN,2019,,Females,0.699999988,-14,14
+412,Serbia,SRB,2019,,Males,41.09999847,21,44
+413,Serbia,SRB,2019,,Females,39,21,44
+414,Seychelles,SYC,2019,,Males,34.59999847,55.6667,-4.5833
+415,Seychelles,SYC,2019,,Females,6.599999905,55.6667,-4.5833
+416,Sierra Leone,SLE,2019,,Males,21.70000076,-11.5,8.5
+417,Sierra Leone,SLE,2019,,Females,6.800000191,-11.5,8.5
+418,Singapore,SGP,2019,,Males,28.10000038,103.8,1.3667
+419,Singapore,SGP,2019,,Females,5,103.8,1.3667
+420,Sint Maarten (Dutch part),SXM,2019,,Males,,0,0
+421,Sint Maarten (Dutch part),SXM,2019,,Females,,0,0
+422,Slovakia,SVK,2019,,Males,37.59999847,19.5,48.6667
+423,Slovakia,SVK,2019,,Females,25.39999962,19.5,48.6667
+424,Slovenia,SVN,2019,,Males,24.70000076,15,46
+425,Slovenia,SVN,2019,,Females,19.79999924,15,46
+426,Solomon Islands,SLB,2019,,Males,53.90000153,159,-8
+427,Solomon Islands,SLB,2019,,Females,19.60000038,159,-8
+428,Somalia,SOM,2019,,Males,,49,10
+429,Somalia,SOM,2019,,Females,,49,10
+430,South Africa,ZAF,2019,,Males,34,24,-29
+431,South Africa,ZAF,2019,,Females,6.699999809,24,-29
+432,South America,,2019,,Males,,0,0
+433,South America,,2019,,Females,,0,0
+434,South Asia,,2019,,Males,42.43146896,0,0
+435,South Asia,,2019,,Females,13.19150448,0,0
+436,South Korea,KOR,2019,,Males,36.79999924,127.5,37
+437,South Korea,KOR,2019,,Females,6,127.5,37
+438,South Sudan,SSD,2019,,Males,,30,8
+439,South Sudan,SSD,2019,,Females,,30,8
+440,Spain,ESP,2019,,Males,29.29999924,-4,40
+441,Spain,ESP,2019,,Females,26.89999962,-4,40
+442,Sri Lanka,LKA,2019,,Males,41.90000153,81,7
+443,Sri Lanka,LKA,2019,,Females,2.700000048,81,7
+444,Sub-Saharan Africa,,2019,,Males,16.65441322,0,0
+445,Sub-Saharan Africa,,2019,,Females,2.973442554,0,0
+446,Sudan,SDN,2019,,Males,,30,15
+447,Sudan,SDN,2019,,Females,,30,15
+448,Suriname,SUR,2019,,Males,,-56,4
+449,Suriname,SUR,2019,,Females,,-56,4
+450,Sweden,SWE,2019,,Males,30.5,15,62
+451,Sweden,SWE,2019,,Females,19,15,62
+452,Switzerland,CHE,2019,,Males,28.29999924,8,47
+453,Switzerland,CHE,2019,,Females,23,8,47
+454,Syria,SYR,2019,,Males,,38,35
+455,Syria,SYR,2019,,Females,,38,35
+456,Taiwan,TWN,2019,,Males,,121,23.5
+457,Taiwan,TWN,2019,,Females,,121,23.5
+458,Tajikistan,TJK,2019,,Males,,71,39
+459,Tajikistan,TJK,2019,,Females,,71,39
+460,Tanzania,TZA,2019,,Males,14.89999962,35,-6
+461,Tanzania,TZA,2019,,Females,3.5,35,-6
+462,Thailand,THA,2019,,Males,41.90000153,100,15
+463,Thailand,THA,2019,,Females,3,100,15
+464,Timor,TLS,2019,,Males,68.40000153,125.5167,-8.55
+465,Timor,TLS,2019,,Females,11.19999981,125.5167,-8.55
+466,Togo,TGO,2019,,Males,12.80000019,1.1667,8
+467,Togo,TGO,2019,,Females,1.299999952,1.1667,8
+468,Tokelau,TKL,2019,,Males,,-172,-9
+469,Tokelau,TKL,2019,,Females,,-172,-9
+470,Tonga,TON,2019,,Males,47,-175,-20
+471,Tonga,TON,2019,,Females,15.19999981,-175,-20
+472,Trinidad and Tobago,TTO,2019,,Males,,-61,11
+473,Trinidad and Tobago,TTO,2019,,Females,,-61,11
+474,Tunisia,TUN,2019,,Males,47.79999924,9,34
+475,Tunisia,TUN,2019,,Females,2.099999905,9,34
+476,Turkey,TUR,2019,,Males,42.90000153,35,39
+477,Turkey,TUR,2019,,Females,18.89999962,35,39
+478,Turkmenistan,TKM,2019,,Males,11.10000038,60,40
+479,Turkmenistan,TKM,2019,,Females,0.5,60,40
+480,Turks and Caicos Islands,TCA,2019,,Males,,-71.5833,21.75
+481,Turks and Caicos Islands,TCA,2019,,Females,,-71.5833,21.75
+482,Tuvalu,TUV,2019,,Males,50.29999924,178,-8
+483,Tuvalu,TUV,2019,,Females,21.70000076,178,-8
+484,Uganda,UGA,2019,,Males,13.69999981,32,1
+485,Uganda,UGA,2019,,Females,4,32,1
+486,Ukraine,UKR,2019,,Males,40.70000076,32,49
+487,Ukraine,UKR,2019,,Females,11.60000038,32,49
+488,United Arab Emirates,ARE,2019,,Males,,54,24
+489,United Arab Emirates,ARE,2019,,Females,,54,24
+490,United Kingdom,GBR,2019,,Males,17.89999962,-2,54
+491,United Kingdom,GBR,2019,,Females,14.19999981,-2,54
+492,United States,USA,2019,,Males,28.89999962,-97,38
+493,United States,USA,2019,,Females,17.79999924,-97,38
+494,United States Virgin Islands,VIR,2019,,Males,,-64.8333,18.3333
+495,United States Virgin Islands,VIR,2019,,Females,,-64.8333,18.3333
+496,Upper middle income,,2019,,Males,41.55661392,0,0
+497,Upper middle income,,2019,,Females,5.161786079,0,0
+498,Upper-middle-income countries,,2019,,Males,,0,0
+499,Upper-middle-income countries,,2019,,Females,,0,0
+500,Uruguay,URY,2019,,Males,25.10000038,-56,-33
+501,Uruguay,URY,2019,,Females,18.79999924,-56,-33
+502,Uzbekistan,UZB,2019,,Males,34.5,64,41
+503,Uzbekistan,UZB,2019,,Females,1.100000024,64,41
+504,Vanuatu,VUT,2019,,Males,33.70000076,167,-16
+505,Vanuatu,VUT,2019,,Females,2.700000048,167,-16
+506,Vatican,VAT,2019,,Males,,12.45,41.9
+507,Vatican,VAT,2019,,Females,,12.45,41.9
+508,Venezuela,VEN,2019,,Males,,-66,8
+509,Venezuela,VEN,2019,,Females,,-66,8
+510,Vietnam,VNM,2019,,Males,47.79999924,106,16
+511,Vietnam,VNM,2019,,Females,2.200000048,106,16
+512,Wallis and Futuna,WLF,2019,,Males,,-176.2,-13.3
+513,Wallis and Futuna,WLF,2019,,Females,,-176.2,-13.3
+514,Western Sahara,ESH,2019,,Males,,-13,24.5
+515,Western Sahara,ESH,2019,,Females,,-13,24.5
+516,World,OWID_WRL,2019,,Males,37.96463776,0,0
+517,World,OWID_WRL,2019,,Females,8.967571259,0,0
+518,Yemen,YEM,2019,,Males,32.59999847,48,15
+519,Yemen,YEM,2019,,Females,8.300000191,48,15
+520,Zambia,ZMB,2019,,Males,25.29999924,30,-15
+521,Zambia,ZMB,2019,,Females,3.900000095,30,-15
+522,Zimbabwe,ZWE,2019,,Males,22.5,30,-20
+523,Zimbabwe,ZWE,2019,,Females,1.600000024,30,-20
