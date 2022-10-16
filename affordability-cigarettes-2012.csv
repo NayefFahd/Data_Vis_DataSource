@@ -1,0 +1,184 @@
+Year,Country,Code,Affordability - percentage of GDP per capita required to purchase 2000 cigarettes of the most sold brand,Longitude,Latitude
+2012,Afghanistan,AFG,4.45,65.0,33.0
+2012,Albania,ALB,3.7,20.0,41.0
+2012,Algeria,DZA,1.97,3.0,28.0
+2012,Andorra,AND,1.03,1.6,42.5
+2012,Angola,AGO,3.0,18.5,-12.5
+2012,Antigua and Barbuda,ATG,1.74,-61.8,17.05
+2012,Argentina,ARG,1.27,-64.0,-34.0
+2012,Armenia,ARM,4.18,45.0,40.0
+2012,Australia,AUS,2.06,133.0,-27.0
+2012,Austria,AUT,1.19,13.3333,47.3333
+2012,Azerbaijan,AZE,1.86,47.5,40.5
+2012,Bahamas,BHS,1.64,-76.0,24.25
+2012,Bahrain,BHR,1.05,50.55,26.0
+2012,Bangladesh,BGD,4.1,90.0,24.0
+2012,Barbados,BRB,3.45,-59.5333,13.1667
+2012,Belarus,BLR,0.53,28.0,53.0
+2012,Belgium,BEL,1.51,4.0,50.8333
+2012,Belize,BLZ,5.59,-88.75,17.25
+2012,Benin,BEN,8.55,2.25,9.5
+2012,Bolivia,BOL,4.38,-65.0,-17.0
+2012,Bosnia and Herzegovina,BIH,3.85,18.0,44.0
+2012,Botswana,BWA,4.75,24.0,-22.0
+2012,Brazil,BRA,1.75,-55.0,-10.0
+2012,Brunei,BRN,1.24,114.6667,4.5
+2012,Bulgaria,BGR,4.08,25.0,43.0
+2012,Burkina Faso,BFA,12.92,-2.0,13.0
+2012,Burundi,BDI,22.17,30.0,-3.5
+2012,Cambodia,KHM,4.43,105.0,13.0
+2012,Cameroon,CMR,7.22,12.0,6.0
+2012,Canada,CAN,1.61,-95.0,60.0
+2012,Cape Verde,CPV,6.15,-24.0,16.0
+2012,Chad,TCD,10.09,19.0,15.0
+2012,Chile,CHL,2.2,-71.0,-30.0
+2012,China,CHN,2.66,105.0,35.0
+2012,Colombia,COL,1.59,-72.0,4.0
+2012,Comoros,COM,9.31,44.25,-12.1667
+2012,Congo,COG,2.13,15.0,-1.0
+2012,Cook Islands,COK,6.33,-159.7667,-21.2333
+2012,Costa Rica,CRI,2.6,-84.0,10.0
+2012,Cote d'Ivoire,CIV,8.13,-5.0,8.0
+2012,Croatia,HRV,2.58,15.5,45.1667
+2012,Cuba,CUB,10.77,-80.0,21.5
+2012,Cyprus,CYP,1.66,33.0,35.0
+2012,Czechia,CZE,1.75,15.5,49.75
+2012,Democratic Republic of Congo,COD,22.14,25.0,0.0
+2012,Denmark,DNK,1.18,10.0,56.0
+2012,Djibouti,DJI,5.26,43.0,11.5
+2012,Dominica,DMA,2.29,-61.3333,15.4167
+2012,Dominican Republic,DOM,5.27,-70.6667,19.0
+2012,Ecuador,ECU,4.59,-77.5,-2.0
+2012,Egypt,EGY,2.96,30.0,27.0
+2012,El Salvador,SLV,5.69,-88.9167,13.8333
+2012,Equatorial Guinea,GNQ,0.45,10.0,2.0
+2012,Eritrea,ERI,37.5,39.0,15.0
+2012,Estonia,EST,2.27,26.0,59.0
+2012,Ethiopia,ETH,9.16,38.0,8.0
+2012,Fiji,FJI,8.02,175.0,-18.0
+2012,Finland,FIN,1.31,26.0,64.0
+2012,France,FRA,1.88,2.0,46.0
+2012,Gabon,GAB,1.98,11.75,-1.0
+2012,Gambia,GMB,6.3,-16.5667,13.4667
+2012,Georgia,GEO,2.61,43.5,42.0
+2012,Germany,DEU,1.54,9.0,51.0
+2012,Ghana,GHA,5.1,-2.0,8.0
+2012,Greece,GRC,2.15,22.0,39.0
+2012,Guatemala,GTM,5.47,-90.25,15.5
+2012,Guinea,GIN,6.66,-10.0,11.0
+2012,Guinea-Bissau,GNB,8.54,-15.0,12.0
+2012,Guyana,GUY,2.74,-59.0,5.0
+2012,Honduras,HND,7.97,-86.5,15.0
+2012,Hungary,HUN,2.61,20.0,47.0
+2012,Iceland,ISL,1.73,-18.0,65.0
+2012,India,IND,12.47,77.0,20.0
+2012,Indonesia,IDN,4.75,120.0,-5.0
+2012,Iran,IRN,1.25,53.0,32.0
+2012,Iraq,IRQ,0.64,44.0,33.0
+2012,Ireland,IRL,2.39,-8.0,53.0
+2012,Israel,ISR,1.83,34.75,31.5
+2012,Italy,ITA,1.85,12.8333,42.8333
+2012,Jamaica,JAM,13.6,-77.5,18.25
+2012,Japan,JPN,1.06,138.0,36.0
+2012,Jordan,JOR,3.91,36.0,31.0
+2012,Kazakhstan,KAZ,0.71,68.0,48.0
+2012,Kenya,KEN,8.53,38.0,1.0
+2012,Kiribati,KIR,27.65,173.0,1.4167
+2012,Kuwait,KWT,0.51,47.6581,29.3375
+2012,Kyrgyzstan,KGZ,4.29,75.0,41.0
+2012,Laos,LAO,4.74,105.0,18.0
+2012,Latvia,LVA,2.37,25.0,57.0
+2012,Lebanon,LBN,2.29,35.8333,33.8333
+2012,Lesotho,LSO,29.22,28.5,-29.5
+2012,Liberia,LBR,12.5,-9.5,6.5
+2012,Libya,LBY,0.94,17.0,25.0
+2012,Lithuania,LTU,2.21,24.0,56.0
+2012,Luxembourg,LUX,0.55,6.1667,49.75
+2012,Madagascar,MDG,17.59,47.0,-20.0
+2012,Malawi,MWI,55.38,34.0,-13.5
+2012,Malaysia,MYS,3.0,112.5,2.5
+2012,Maldives,MDV,2.76,73.0,3.25
+2012,Mali,MLI,17.13,-4.0,17.0
+2012,Malta,MLT,2.38,14.5833,35.8333
+2012,Marshall Islands,MHL,10.21,168.0,9.0
+2012,Mauritania,MRT,6.92,-12.0,20.0
+2012,Mauritius,MUS,3.76,57.55,-20.2833
+2012,Mexico,MEX,2.97,-102.0,23.0
+2012,Micronesia (country),FSM,6.25,158.25,6.9167
+2012,Moldova,MDA,3.54,29.0,47.0
+2012,Mongolia,MNG,1.37,105.0,46.0
+2012,Montenegro,MNE,1.95,19.0,42.0
+2012,Morocco,MAR,6.81,-5.0,32.0
+2012,Mozambique,MOZ,13.87,35.0,-18.25
+2012,Myanmar,MMR,6.65,98.0,22.0
+2012,Namibia,NAM,5.95,17.0,-22.0
+2012,Nepal,NPL,16.79,84.0,28.0
+2012,Netherlands,NLD,1.46,5.75,52.5
+2012,New Zealand,NZL,2.96,174.0,-41.0
+2012,Nicaragua,NIC,6.85,-85.0,13.0
+2012,Niger,NER,14.79,8.0,16.0
+2012,Nigeria,NGA,4.61,8.0,10.0
+2012,North Macedonia,MKD,2.42,22.0,41.8333
+2012,Norway,NOR,1.49,10.0,62.0
+2012,Oman,OMN,1.01,57.0,21.0
+2012,Pakistan,PAK,2.95,70.0,30.0
+2012,Palau,PLW,2.91,134.5,7.5
+2012,Palestine,PSE,16.17,35.25,32.0
+2012,Panama,PAN,3.49,-80.0,9.0
+2012,Papua New Guinea,PNG,25.05,147.0,-6.0
+2012,Paraguay,PRY,0.66,-58.0,-23.0
+2012,Peru,PER,3.08,-76.0,-10.0
+2012,Philippines,PHL,1.31,122.0,13.0
+2012,Poland,POL,2.71,20.0,52.0
+2012,Portugal,PRT,2.62,-8.0,39.5
+2012,Qatar,QAT,0.24,51.25,25.5
+2012,Romania,ROU,4.57,25.0,46.0
+2012,Russia,RUS,0.93,100.0,60.0
+2012,Rwanda,RWA,13.34,30.0,-2.0
+2012,Saint Kitts and Nevis,KNA,1.89,-62.75,17.3333
+2012,Saint Lucia,LCA,3.41,-61.1333,13.8833
+2012,Saint Vincent and the Grenadines,VCT,3.22,-61.2,13.25
+2012,Samoa,WSM,9.29,-172.3333,-13.5833
+2012,San Marino,SMR,1.12,12.4167,43.7667
+2012,Sao Tome and Principe,STP,7.6,7.0,1.0
+2012,Saudi Arabia,SAU,0.95,45.0,25.0
+2012,Senegal,SEN,5.89,-14.0,14.0
+2012,Serbia,SRB,2.08,21.0,44.0
+2012,Seychelles,SYC,4.56,55.6667,-4.5833
+2012,Sierra Leone,SLE,9.76,-11.5,8.5
+2012,Singapore,SGP,1.71,103.8,1.3667
+2012,Slovakia,SVK,2.01,19.5,48.6667
+2012,Slovenia,SVN,1.64,15.0,46.0
+2012,Solomon Islands,SLB,15.06,159.0,-8.0
+2012,South Africa,ZAF,4.52,24.0,-29.0
+2012,South Korea,KOR,0.87,127.5,37.0
+2012,Spain,ESP,2.04,-4.0,40.0
+2012,Sri Lanka,LKA,11.69,81.0,7.0
+2012,Sudan,SDN,12.42,30.0,15.0
+2012,Suriname,SUR,2.8,-56.0,4.0
+2012,Sweden,SWE,1.35,15.0,62.0
+2012,Switzerland,CHE,1.0,8.0,47.0
+2012,Tajikistan,TJK,6.63,71.0,39.0
+2012,Tanzania,TZA,18.33,35.0,-6.0
+2012,Thailand,THA,3.18,100.0,15.0
+2012,Timor,TLS,12.34,125.5167,-8.55
+2012,Togo,TGO,13.7,1.1667,8.0
+2012,Tonga,TON,10.36,-175.0,-20.0
+2012,Trinidad and Tobago,TTO,1.58,-61.0,11.0
+2012,Tunisia,TUN,3.48,9.0,34.0
+2012,Turkey,TUR,3.11,35.0,39.0
+2012,Turkmenistan,TKM,4.73,60.0,40.0
+2012,Tuvalu,TUV,17.77,178.0,-8.0
+2012,Uganda,UGA,10.5,32.0,1.0
+2012,Ukraine,UKR,2.42,32.0,49.0
+2012,United Arab Emirates,ARE,0.51,54.0,24.0
+2012,United Kingdom,GBR,2.46,-2.0,54.0
+2012,United States,USA,1.18,-97.0,38.0
+2012,Uruguay,URY,2.47,-56.0,-33.0
+2012,Uzbekistan,UZB,4.18,64.0,41.0
+2012,Vanuatu,VUT,24.25,167.0,-16.0
+2012,Venezuela,VEN,5.39,-66.0,8.0
+2012,Vietnam,VNM,3.31,106.0,16.0
+2012,Yemen,YEM,8.53,48.0,15.0
+2012,Zambia,ZMB,9.01,30.0,-15.0
+2012,Zimbabwe,ZWE,7.63,30.0,-20.0
