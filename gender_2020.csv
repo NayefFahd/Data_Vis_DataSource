@@ -1,4 +1,4 @@
-Country,Code,Year,Longitude,Latitude,Age Group,Percentage
+Country,Code,Year,Longitude,Latitude,Gender,Percentage
 Afghanistan,AFG,2020,65,33,Males,39.40000153
 Afghanistan,AFG,2020,65,33,Females,7.199999809
 Africa,,2020,0,0,Males,
